@@ -1,0 +1,11 @@
+Mango, the most important fruit of India, is grown in an area of 1.23 million ha with an annual production of 10.99 million tonnes, which accounts for 57.18 per cent of the total world production. This paper presents information on area and production, cultivars, hybrids and clone, agrotechniques, disorders, insect pests and diseases, harvest and postharvest management, export, problems and prospects of growing mango in India.
+
+
+
+The production has been declined in recent years due todamage from pests and other disease-causing agents, in response to ﬁnd a bettersolution to this problem the Prediction of Disease of Mango Fruit Crop usingMachine Learning and IoT’is an advanced alerting system. The main objectiveis to develop a system that can forecast the attack of diseases on Mango fruitcrop using past weather data and crop production. The ﬁeld sensors collectedlive weather data to calculate disease prediction in real time. The Random ForestRegression model was trained on past weather data and used to calculate diseaseoutbreak probability. 
+Home  Advances in Decision Sciences, Image Processing, Security and Computer Vision  Conference paper
+Disease Prediction of Mango Crop Using Machine Learning and IoT
+P. B. Jawade
+
+Disease Prediction of Mango Crop Using Machine Learning and IoT
+Jawade P. B.Chaugule D.Patil D.Shinde H.See fewer,(2020)
