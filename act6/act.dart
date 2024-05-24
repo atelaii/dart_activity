@@ -2,7 +2,7 @@ class Stack<T> {
   List<T> _stack = [];
 
   /// Pushes an [element] onto the stack.
-  void push(T element) {
+  void push(T element) { 
     _stack.add(element);
   }
 
